@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-repo for my portfolio made with bootstrap
+Repository for my portfolio structure created with bootstrap
